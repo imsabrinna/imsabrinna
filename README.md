@@ -4,8 +4,6 @@
 Web Designer & Web Developer focused on building clean, responsive and user-friendly websites.
 </p>
 
----
-
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
@@ -13,8 +11,6 @@ Web Designer & Web Developer focused on building clean, responsive and user-frie
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
-
----
 
 <h2 align="center">Languages and Tools</h2>
 
