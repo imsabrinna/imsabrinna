@@ -9,7 +9,7 @@ Web Designer & Web Developer focused on building clean, responsive and user-frie
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/im-sabrina/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
