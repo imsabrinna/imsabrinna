@@ -1,3 +1,7 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsabrinna&show_icons=true&theme=monokai)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imsabrinna&show_icons=true&theme=monokai&cache_seconds=1800" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsabrinna&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsabrinna&layout=compact&theme=monokai" />
+</p>
